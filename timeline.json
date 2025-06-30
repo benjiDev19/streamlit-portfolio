@@ -1,0 +1,58 @@
+{
+  "events":[
+    {
+      "start_date":{"year":"2019", "month":"1"},"media":{"url":"https://www.youtube.com/watch?v=8FqZZrbnwkM&pp=ygUTUGllcnJlOiBIdG1sIGV0IGNzcw%3D%3D","credit":"Pierre Giraud"},"text":{"headline":"My introduction to Programming world", "text": "<p>This was my very first time to see a line of code. I started off with HTML & CSS course before launching the accademic program. This course has 3 parts with average of 1h30 each. I took 1 month to complete as it was my very first time in the coding realm.<p>"}
+    },
+    {
+      "start_date":{"year":"2019","month":"3"},"media":{"url":"https://youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&si=tP36beUHD4ldE5fm","credit":"Formation Video"},"text":{"headline":"My first accademic programming language: 'C'", "text":"<p>In March 2019, I'm, entering my second semester of my first year, majoring in Computer science. I start learning my very first official accademic programming,'C'. I was also following this online course to have an advance with my accademic program. I took 4 months to complete the course(Accademic and Online one).</p>"}
+    },
+    {
+      "start_date":{"year":"2019","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28","credit":"thenewboston"},"text":{"headline":"Starting my second year, I'm introduced to Java","text":"<p>Java is my second offical accademic programming language. I was also following the 87 Java biggener videos from thenewboston.</p>"}
+    },
+    {
+      "start_date":{"year":"2019","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=vW53w7me4AE&list=PL27BCE863B6A864E3","credit":"thenewboston"},"text":{"headline":"JAVA Intermediare","text":"<p>Java intermediare from thenewboston.</p>"}
+    },
+    {
+      "start_date":{"year":"2020","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=2vvuGUxPv30&list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH","credit":"LES TEACHERS DU NET"},"text":{"headline":"Second Year, Second Semester, JAVA 2(JSP)","text":"<p>JavaServer Pages (JSP) is a Java technology that is used to create dynamic web pages.It is a sever-side technology.</p> I learned it in 2020 from the accademic program.</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=7S_tz1z_5bA&t=10s&pp=ygUUY29kaW5nIHdpdGggbW9zaCBzcWw%3D","credit":"Programming with Mosh"},"text":{"headline":"Data Communications and Networkds, SQL","text":"<p>Accademic program and Online learning from Programming with Mosh and Freecodecamp</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"3"},"media":{"url":"https://www.jxut.edu.cn/2022new/images/list-banner.png","credit":"JXUT Bachelor School"},"text":{"headline":"Discrete Mathematics for Computing","text":"<p>Accademic program</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"3"},"media":{"url":"https://www.jxut.edu.cn/2022new/images/list-banner.png","credit":"JXUT Bachelor School"},"text":{"headline":"Program Design and Development","text":"<p>Accademic program</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"3"},"media":{"url":"https://www.jxut.edu.cn/2022new/images/list-banner.png","credit":"JXUT Bachelor School"},"text":{"headline":"Professianla Communication Skills","text":"<p>Accademic program</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=SR4MzMsrASQ&t=894s&pp=ygUbU3lzdGVtcyBBbmFseXNpcyBhbmQgRGVzaWdu","credit":"JXUT"},"text":{"headline":"Systems Analysis and Design","text":"<p>Accademic program and Online learning from Freecodecamp</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=ztHopE5Wnpc&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Principle of Database System","text":"<p>Accademic program and Online learning from Freecodecamp</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"9"},"media":{"url":"https://www.jxut.edu.cn/2022new/images/list-banner.png","credit":"JXUT Bachelor School"},"text":{"headline":"Basics System information","text":"<p>Accademic program</p> "}
+    },
+    {
+      "start_date":{"year":"2020","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=RBSGKlAvoiM&t=3624s&pp=ygUkRGF0YSBTdHJ1Y3R1cmUgYW5kIEFsZ29yaXRobSBpbiBKQVZB","credit":"Freecodecamp"},"text":{"headline":"Data Structure and Algorithm in JAVA","text":"<p>Accademic program  and Online learning from Freecodecamp</p> "}
+    },
+    {
+      "start_date":{"year":"2021","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=4cWkVbC2bNE&t=13s&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Principle of Database System 2","text":"<p>Accademic program and Online learning from Freecodecamp</p> "}
+    },
+    {
+      "start_date":{"year":"2021","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=4cWkVbC2bNE&t=13s&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Business Statistics","text":"<p>Accademic program</p>"}
+    },
+    {
+      "start_date":{"year":"2021","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=4cWkVbC2bNE&t=13s&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Mobile UI Design","text":"<p>Accademic program</p>"}
+    },
+    {
+      "start_date":{"year":"2021","month":"3"},"media":{"url":"https://www.youtube.com/watch?v=4cWkVbC2bNE&t=13s&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Smartphone Operating System","text":"<p>Accademic program</p>"}
+    },
+    {
+      "start_date":{"year":"2021","month":"9"},"media":{"url":"https://www.youtube.com/watch?v=4cWkVbC2bNE&t=13s&pp=ygUcUHJpbmNpcGxlIG9mIERhdGFiYXNlIFN5c3RlbQ%3D%3D","credit":"Freecodecamp"},"text":{"headline":"Smart Operating System Course Design","text":"<p>Accademic program</p>"}
+    }
+  ]
+}
